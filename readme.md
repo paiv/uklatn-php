@@ -7,6 +7,15 @@ Supported transliteration schemes:
 - [KMU 55:2010](https://zakon.rada.gov.ua/laws/show/55-2010-п)
 
 
+Install
+--
+
+Add package dependency:
+```sh
+php composer.phar require 'paiv/uklatn'
+```
+
+
 Usage
 --
 
